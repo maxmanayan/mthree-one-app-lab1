@@ -4,11 +4,11 @@ color scheme:
 - lime green : #75A256
 */
 
-@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap"); */
 
-.Module {
+.FeedbackForm {
   text-align: center;
-  font-family: "Roboto", sans-serif;
+  /* font-family: "Roboto", sans-serif; */
   text-align: center;
   display: flex;
   flex-direction: column;
