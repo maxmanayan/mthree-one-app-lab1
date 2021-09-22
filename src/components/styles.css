@@ -1,0 +1,19 @@
+/* 
+color scheme:
+
+- lime green : #75A256
+*/
+
+/* @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap"); */
+
+.FeedbackForm {
+  text-align: center;
+  /* font-family: "Roboto", sans-serif; */
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-height: 100vh;
+  color: #75a256;
+}

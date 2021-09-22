@@ -1,9 +1,13 @@
 import React from "react";
+import styles from "./styles.css";
 import childRoutes from "../childRoutes";
+import Header from "./children/Header";
+import Body from "./children/Body";
 
 const FeedbackForm = () => (
-  <div>
-    <h1>Welcome to Feedback Form</h1>
+  <div className={styles.FeedbackForm}>
+    <Header />
+    <Body />
   </div>
 );
 
